@@ -1,8 +1,8 @@
-# KARN: Kolmogorov-Arnold Recurrent Network
+# Kolmogorov-Arnold Network (Recurrent)
 
 ## Introduction
 
-This project implements a Kolmogorov-Arnold Recurrent Network (KARN) for load forecasting. It uses Temporal Basis Functions and Temporal Spline Functions to model temporal data dependencies and produce forecasts for energy consumption based on past features. This architecture is particularly suited for load forecasting tasks and can be extended for other time-series forecasting applications.
+This project implements a Kolmogorov-Arnold Network (Recurrent) for load forecasting. It uses Temporal Basis Functions and Temporal Spline Functions to model temporal data dependencies and produce forecasts for energy consumption based on past features. This architecture is particularly suited for load forecasting tasks and can be extended for other time-series forecasting applications.
 
 ### Key Features:
 - **Temporal Basis Functions**: Captures both linear and non-linear relationships in the input data using SiLU (Sigmoid Linear Unit) activation.
